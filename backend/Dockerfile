@@ -1,4 +1,5 @@
 # Build static files
+# DEPLOY TRIGGER
 # Node Bullseye has npm
 FROM node:20.13.1-bullseye-slim AS buildWithDevDeps
 
