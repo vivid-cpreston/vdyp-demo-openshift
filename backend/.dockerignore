@@ -1,6 +1,8 @@
-.idea
-.vscode
-coverage
-cypress
-dist
-node_modules
+target/**
+.dockerignore
+.gitignore
+Dockerfile
+mvnw.cmd
+*.yml
+*.yaml
+*.md
